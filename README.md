@@ -21,6 +21,10 @@ Update elements HTML via diffing.
 
 ## How To
 
+```html
+<script src="//cdn.rawgit.com/webino/diffhtml-jquery/develop/src/diffhtml.jquery.js" type="text/javascript"></script>
+```
+
 HTML element:
 
 ```html
